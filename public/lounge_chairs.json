@@ -1,0 +1,111 @@
+[
+    {
+      "id":14,
+      "title": "Lounge Chair",
+      "price": 299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Lounge Chair 2",
+      "price": 59.00,
+      "oldPrice": "€75.00",
+      "discount": "30% OFF",
+      "description": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Lounge Chair 3",
+      "price":299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Lounge Chair 4",
+      "price": 299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "Lightweight, easy to clean, sturdy, safe, and stable. Non-slip legs",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Lounge Chair 5",
+      "price": 165.00,
+      "oldPrice": "€400.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Lounge Chair 6",
+      "price": 299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "A seat, especially for one person, usually having four legs for support",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    },
+    {
+      "id":20,
+      "title": "Lounge Chair 7",
+      "price": 299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Lounge Chair 8",
+      "price": 59.00,
+      "oldPrice": "€75.00",
+      "discount": "30% OFF",
+      "description": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Lounge Chair 9",
+      "price":299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Lounge Chair 10",
+      "price": 299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "Lightweight, easy to clean, sturdy, safe, and stable. Non-slip legs",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Lounge Chair 11",
+      "price": 165.00,
+      "oldPrice": "€400.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Lounge Chair 12",
+      "price": 299.00,
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "A seat, especially for one person, usually having four legs for support",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    }
+  ]
+  

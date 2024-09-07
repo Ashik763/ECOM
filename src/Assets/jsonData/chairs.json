@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Recliner Chair Wood",
+      "price": "€299.00",
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+      "id": 2,
+      "title": "Timber Ride Padded",
+      "price": "€59.00",
+      "oldPrice": "€75.00",
+      "discount": "30% OFF",
+      "description": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+      "id": 3,
+      "title": "Colored Wooden Chair",
+      "price": "€299.00",
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+      "id": 4,
+      "title": "Blank Bamboo Wicker",
+      "price": "€299.00",
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "Lightweight, easy to clean, sturdy, safe, and stable. Non-slip legs",
+      "image": "https://i.ibb.co.com/7kmyjNb/lounge-chair1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Isolated Wooden Rock",
+      "price": "€165.00",
+      "oldPrice": "€400.00",
+      "discount": "30% OFF",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Minimal Empty Rocking",
+      "price": "€299.00",
+      "oldPrice": "€350.00",
+      "discount": "30% OFF",
+      "description": "A seat, especially for one person, usually having four legs for support",
+      "image": "https://i.ibb.co.com/BNNpS8M/lounge-chair2.jpg"
+    }
+  ]
+  
